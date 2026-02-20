@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Aired out",
+  "base_artist": "kmoe",
+  "createdAt": "2026-02-20T10:51:08.964627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aired out",
+      "artist": "kmoe",
+      "has_synced": true,
+      "path": "select/01_Aired_out_kmoe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ridin' Down The Canyon (Aired August 13, 1950)",
+      "artist": "Gene Autry",
+      "has_synced": false,
+      "path": "select/02_Ridin'_Down_The_Canyon_(Aired_August_13,_1950)_Gene_Autry.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "cold aired breeze",
+      "artist": "Arny Margret",
+      "has_synced": true,
+      "path": "select/03_cold_aired_breeze_Arny_Margret.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Walk (Get Back Session Glyn Johns' Acetate 27 jan 1969)Reference acetate prepared by producer Glyn Johns on 10 March 1969. As aired on W.B.C.N in Boston.",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_The_Walk_(Get_Back_Session_Glyn_Johns'_Acetate_27_jan_1969)Reference_acetate_pre_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't let me down (Get Back Session Glyn Johns' Acetate 22 jan 1969)Reference acetate prepared by producer Glyn Johns on 10 March 1969. As aired on W.B.C.N in Boston.",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Don't_let_me_down_(Get_Back_Session_Glyn_Johns'_Acetate_22_jan_1969)Reference_ac_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Buffy (never aired)",
+      "artist": "Velvet Chain",
+      "has_synced": false,
+      "path": "select/06_Buffy_(never_aired)_Velvet_Chain.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aired out",
+      "artist": "kmoe",
+      "has_synced": false,
+      "path": "select/pl_01_Aired_out_kmoe.txt"
+    }
+  ]
+}
